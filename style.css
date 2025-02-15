@@ -307,8 +307,10 @@ footer
         padding: 0;
     }
     nav{
+        flex-direction: column;
         padding-left: 0;
         position: relative;
+        gap: 10;
     }
     .hero-section
     {
