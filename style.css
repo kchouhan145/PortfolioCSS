@@ -309,6 +309,7 @@ footer
     }
     nav{
         padding-left: 0;
+        position: relative;
     }
     .hero-section
     {
